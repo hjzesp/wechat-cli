@@ -205,6 +205,12 @@ wechat-cli search "report" --type file --limit 10
 wechat-cli new-messages --format text
 ```
 
+> ### ⚡ 也在做 AI 项目？
+>
+> [**JojoKey**](https://jojokey.com/) 提供价格实惠的一站式 AI 大模型接入，覆盖多种海内外模型。Claude Code 低至常规定价的 **5%**，图片生成 **¥0.10 起**；Seedance 保真支持 NSFW 场景（请在当地法律与平台规则允许的范围内使用）。
+>
+> [JojoKey 主站](https://jojokey.com/) · [Seedance 视频站落地页](https://video.jojokey.com/) · 微信：`hjzesp`
+
 ---
 
 ## 📖 Command Reference
