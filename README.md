@@ -205,6 +205,12 @@ wechat-cli search "report" --type file --limit 10
 wechat-cli new-messages --format text
 ```
 
+> ### ⚡ Building with AI too?
+>
+> [**JojoKey**](https://jojokey.com/) is an affordable, one-stop gateway to leading AI models from China and abroad. Claude Code access starts at **5% of standard pricing**, image generation starts at **¥0.10**, and Seedance provides high-fidelity support for NSFW workflows where permitted.
+>
+> [Main site](https://jojokey.com/) · [Seedance video landing page](https://video.jojokey.com/) · WeChat: `hjzesp`
+
 ---
 
 ## 📖 Command Reference
